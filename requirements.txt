@@ -1,0 +1,9 @@
+openbb
+pandas
+scikit-learn
+streamlit
+joblib
+plotly
+numpy
+matplotlib
+ta
