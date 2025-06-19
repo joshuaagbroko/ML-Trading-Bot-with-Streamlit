@@ -15,29 +15,23 @@ This project is a complete machine learning-driven trading strategy powered by [
 ## 📁 Project Structure
 
 Automated Trading Bot/
-├── app/
-│ ├── dashboard.py # Streamlit dashboard
-│ ├── data_fetcher.py # Data via OpenBB
-│ ├── feature_engineer.py # Technical indicators + labels
-│ ├── backtester.py # Strategy simulation logic
-│ └── model_trainer.py # Model training script
-├── trained_model.joblib # Saved ML model
-└── README.md
+-├── app/
+-│ ├── dashboard.py # Streamlit dashboard
+-│ ├── data_fetcher.py # Data via OpenBB
+-│ ├── feature_engineer.py # Technical indicators + labels
+-│ ├── backtester.py # Strategy simulation logic
+-│ └── model_trainer.py # Model training script
+-├── trained_model.joblib # Saved ML model
+-└── README.md
 
 ## 📦 Dependencies
 - streamlit
-
 - scikit-learn
-
 - pandas, numpy
-
 - matplotlib
-
 - ta (Technical Analysis)
-
 - openbb (OpenBB SDK)
-
 - joblib
 
 ## 🧠 Author
-Built with ❤️ by Joshua Agbroko
+Built by Joshua Agbroko
