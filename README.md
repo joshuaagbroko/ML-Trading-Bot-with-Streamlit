@@ -1,4 +1,4 @@
-# 🤖 Automated Trading Bot with ML & Streamlit
+# 🤖 Automated Trading Signal Generator with ML & Streamlit
 
 This project is a complete machine learning-driven trading strategy powered by [OpenBB](https://openbb.co/), Streamlit, and scikit-learn. It uses historical stock data to generate trading signals based on technical indicators, trains an ML model, backtests the strategy, and visualizes everything in an interactive dashboard.
 
